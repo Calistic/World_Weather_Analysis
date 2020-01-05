@@ -1,35 +1,35 @@
-City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description,Rain Inches (last 3 hrs),Snow Inches (last 3 hrs)
-Amahai,ID,2020-01-05 08:41:42,-3.31,129.0,85.62,67,36,4.38,light rain,1.81,0.0
-Cayenne,GF,2020-01-05 08:41:42,4.94,-52.33,77.0,88,19,3.36,light rain,0.44,0.0
-Avarua,CK,2020-01-05 08:41:43,-21.21,-159.78,77.0,94,100,1.12,light rain,0.25,0.0
-Inyonga,TZ,2020-01-05 08:41:47,-6.72,32.06,79.9,65,100,3.18,light rain,1.44,0.0
-Butaritari,KI,2020-01-05 08:38:27,3.07,172.79,84.99,78,100,12.75,light rain,0.56,0.0
-Atuona,PF,2020-01-05 08:38:42,-9.8,-139.03,79.95,74,0,6.82,light rain,0.25,0.0
-Dingle,PH,2020-01-05 08:42:03,11.0,122.67,77.54,87,12,13.18,light rain,0.56,0.0
-Sao Jose Da Coroa Grande,BR,2020-01-05 08:42:11,-8.9,-35.15,79.52,76,93,11.39,light rain,0.13,0.0
-Sambava,MG,2020-01-05 08:42:12,-14.27,50.17,84.78,75,100,3.83,light rain,2.44,0.0
-Faanui,PF,2020-01-05 08:38:17,-16.48,-151.75,81.39,78,87,11.79,light rain,0.44,0.0
-Kavieng,PG,2020-01-05 08:42:16,-2.57,150.8,84.85,74,55,10.71,light rain,0.94,0.0
-Muisne,EC,2020-01-05 08:42:18,0.61,-80.02,75.15,88,100,6.26,light rain,0.19,0.0
-Namatanai,PG,2020-01-05 08:42:27,-3.66,152.44,84.52,71,100,5.17,moderate rain,3.75,0.0
-Isangel,VU,2020-01-05 08:42:28,-19.55,169.27,76.48,81,39,16.51,light rain,0.13,0.0
-Sao Joao Da Barra,BR,2020-01-05 08:42:32,-21.64,-41.05,75.6,94,100,8.48,light rain,0.56,0.0
-Gandajika,CD,2020-01-05 08:42:37,-6.75,23.95,78.49,80,100,3.27,light rain,1.31,0.0
-Mwene-Ditu,CD,2020-01-05 08:42:44,-7.01,23.45,76.82,81,100,3.87,light rain,1.19,0.0
-Paraiso,BR,2020-01-05 08:42:44,-0.03,-51.17,75.2,100,100,4.7,moderate rain,9.56,0.0
-Tual,ID,2020-01-05 08:42:44,-5.67,132.75,83.7,76,100,7.81,light rain,0.81,0.0
-Nuqui,CO,2020-01-05 08:42:53,5.71,-77.27,78.35,81,55,5.26,moderate rain,3.75,0.0
-Padang,ID,2020-01-05 08:42:59,-0.92,100.36,79.83,76,78,1.66,light rain,1.75,0.0
-Rabaul,PG,2020-01-05 08:43:00,-4.2,152.17,85.01,73,100,8.75,light rain,2.81,0.0
-Narasannapeta,IN,2020-01-05 08:43:07,18.42,84.04,79.07,64,66,10.36,light rain,0.19,0.0
-Gua Musang,MY,2020-01-05 08:43:14,4.88,101.97,77.74,87,49,5.06,light rain,1.5,0.0
-Ugoofaaru,MV,2020-01-05 08:43:18,5.67,73.0,82.0,78,20,11.7,light rain,0.38,0.0
-Boyolangu,ID,2020-01-05 08:43:23,-8.09,111.9,82.0,80,93,10.96,moderate rain,3.69,0.0
-Carutapera,BR,2020-01-05 08:43:25,-1.2,-46.02,79.27,82,99,6.31,light rain,1.56,0.0
-Chongwe,ZM,2020-01-05 08:43:26,-15.33,28.68,77.02,70,100,5.64,light rain,2.13,0.0
-Buala,SB,2020-01-05 08:43:27,-8.15,159.59,82.22,80,100,11.18,moderate rain,3.25,0.0
-Sinnamary,GF,2020-01-05 08:42:03,5.38,-52.96,78.98,81,100,14.7,light rain,0.5,0.0
-Caravelas,BR,2020-01-05 08:43:32,-17.73,-39.27,75.18,89,100,6.46,light rain,1.0,0.0
-Banjar,ID,2020-01-05 08:43:32,-7.37,108.54,79.39,87,99,3.33,moderate rain,8.63,0.0
-San Policarpo,PH,2020-01-05 08:43:38,12.18,125.51,80.11,84,13,23.33,light rain,2.56,0.0
-Kendari,ID,2020-01-05 08:43:40,-3.99,122.52,78.8,84,81,7.45,light rain,1.25,0.0
+City,Country,Current Description,Max Temp,Lat,Lng,Hotel Name
+Amahai,ID,light rain,85.62,-3.31,129.0,Penginapan Madina
+Cayenne,GF,light rain,77.0,4.94,-52.33,Hôtel Le Dronmi
+Avarua,CK,light rain,77.0,-21.21,-159.78,Paradise Inn
+Inyonga,TZ,light rain,79.9,-6.72,32.06,Eden Rock Lodge
+Butaritari,KI,light rain,84.99,3.07,172.79,Isles Sunset Lodge
+Atuona,PF,light rain,79.95,-9.8,-139.03,Villa Enata
+Dingle,PH,light rain,77.54,11.0,122.67,Camp Pasica
+Sao Jose Da Coroa Grande,BR,light rain,79.52,-8.9,-35.15,Crôa Mares Hotel
+Sambava,MG,light rain,84.78,-14.27,50.17,Melrose
+Faanui,PF,light rain,81.39,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+Kavieng,PG,light rain,84.85,-2.57,150.8,Nusa Island Retreat
+Muisne,EC,light rain,75.15,0.61,-80.02,Quinta Samay
+Namatanai,PG,moderate rain,84.52,-3.66,152.44,Namatanai Hotel
+Isangel,VU,light rain,76.48,-19.55,169.27,Volcano Sea View Tree House
+Sao Joao Da Barra,BR,light rain,75.6,-21.64,-41.05,Pousada Porto De Canoas
+Gandajika,CD,light rain,78.49,-6.75,23.95,
+Mwene-Ditu,CD,light rain,76.82,-7.01,23.45,Hôtel Kamas
+Paraiso,BR,moderate rain,75.2,-0.03,-51.17,Porto Santana
+Tual,ID,light rain,83.7,-5.67,132.75,Grand Vilia Hotel
+Nuqui,CO,moderate rain,78.35,5.71,-77.27,Hotel Nuquimar
+Padang,ID,light rain,79.83,-0.92,100.36,Mercure Padang
+Rabaul,PG,light rain,85.01,-4.2,152.17,Rabaul Hotel
+Narasannapeta,IN,light rain,79.07,18.42,84.04,Sri Gayatri Lodge
+Gua Musang,MY,light rain,77.74,4.88,101.97,Mines Inn Hotel
+Ugoofaaru,MV,light rain,82.0,5.67,73.0,Ungoofaaru Inn
+Boyolangu,ID,moderate rain,82.0,-8.09,111.9,Hotel Istana
+Carutapera,BR,light rain,79.27,-1.2,-46.02,Lidera
+Chongwe,ZM,light rain,77.02,-15.33,28.68,Farm KS
+Buala,SB,moderate rain,82.22,-8.15,159.59,Maringe Lagoon Lodge
+Sinnamary,GF,light rain,78.98,5.38,-52.96,ALETHEIA Appartement Sinnamary
+Caravelas,BR,light rain,75.18,-17.73,-39.27,Pousada Dos Navegantes
+Banjar,ID,moderate rain,79.39,-7.37,108.54,Mandiri
+San Policarpo,PH,light rain,80.11,12.18,125.51,Zal-Ann Beach Resort
+Kendari,ID,light rain,78.8,-3.99,122.52,Hotel Wixel
